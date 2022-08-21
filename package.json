@@ -12,6 +12,6 @@
         "start": "nodemon --exec ts-node ./src/index.ts"
     },
     "dependencies": {
-        "dotenv-safe": "^8.2.0",
+        "dotenv-safe": "^8.2.0"
     }
 }
